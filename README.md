@@ -4,42 +4,46 @@
 # Monzo Prep – Senior Data Scientist Goal
 
 ## 🎯 Target Role  
-Preparing for a Lead Data Scientist position at Monzo by September 2025 
+Preparing for a Senior Data Scientist position at Monzo by September 2025 
 
 ---
 
 ## 🧠 Skill Focus Areas
 
-1. Predictive Modeling & Forecasting  
-2. Feature Engineering & Data Exploration  
-3. Experimentation & Causal Inference  
-4. Model Optimization & Hyperparameter Tuning  
-5. Deep Learning (optional) & Generative AI  
+1. Predictive Modeling & Forecasting
+2. Data Strategy & Decision Making  
+   - Connecting analyses to business decisions
+3. AB Testing & Experimentation  
+   - Building robust experimentation pipelines
+4. Feature Engineering & Data Exploration  
+   - Crafting insightful features for model performance
+5. Deep Learning & Generative AI  
 6. Bayesian Statistics & Probabilistic Thinking 
-7. Generative AI  
-8. Data Leadership & Communication  
+7. Model Interpretability & Business Communication  
+   - Clear communication of insights to stakeholders
+8. SQL & Data Wrangling  
+   - Proficient at extracting and transforming data
 
 ---
 
 ## 📂 Project Ideas
 
-- **Customer Churn & Retention Prediction**  
-  Use behavioral data to predict disengagement or reactivation potential.
+- **Customer Churn Prediction Model**  
+  Predict customer churn and demonstrate the business impact of intervention strategies using model interpretability techniques (e.g., SHAP values).
 
-- **Card Spending Forecasting**  
-  Apply time series forecasting to model daily/weekly transaction volume.
+- **AB Testing Framework & Dashboard**  
+  Build an experimentation framework with a dashboard to track and visualize the results of A/B tests for product features, such as savings rates or user engagement strategies.
 
-- **AB Testing Simulator or Experimentation Toolkit**  
-  Build reusable tools for uplift modeling, power analysis, or sequential testing.
+- **Customer Growth & Revenue Forecasting**  
+  Use time series forecasting to predict customer growth or revenue over the next quarter. Integrate seasonality, trends, and promotional impacts.
 
-- **Credit Risk Model with Interpretability**  
-  Design fair and explainable models for lending decisions using SHAP/LIME.
+- **Segmented User Behavior Analysis & Recommendations**  
+  Segment users based on their behavior and recommend personalized product features (e.g., savings plans or credit card offers).
 
-- **Customer Communication Generator (GenAI)**  
-  Build a chatbot or nudge system powered by LLMs to drive financial well-being.
+- **Product Experimentation Dashboard**  
+  A dashboard that visualizes key metrics from ongoing product experiments and allows teams to quickly assess the effectiveness of different features.
 
 ---
-
 ## 📌 Purpose of This Repo
 
 This GitHub repository is a transparent roadmap and project archive to prepare for the Monzo data science team — blending technical excellence, business context, and strong communication.
