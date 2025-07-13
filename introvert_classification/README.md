@@ -6,6 +6,8 @@ This project will explore the use of machine learning to classify individuals as
 
 This will be part of a broader effort to **build interpretable models** that link personality-related features to observable patterns — with potential applications in personalization, recommendation engines, or mental well-being tools.
 
+*Built for the [Kaggle Playground Series - Season 5 Episode 7]: https://www.kaggle.com/competitions/playground-series-s5e7
+
 ## 🎯 Project Goals
 
 - Build an interpretable model that classifies introversion/extroversion
